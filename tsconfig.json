@@ -8,7 +8,9 @@
 
     /* Bundler mode */
     "moduleResolution": "bundler",
+    "maxNodeModuleJsDepth": 10,
     "allowImportingTsExtensions": true,
+    "allowJs": true,
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
